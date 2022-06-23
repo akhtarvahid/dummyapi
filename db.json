@@ -11,6 +11,8 @@
     { "id": 3, "username": "xyzuser", "body": "some comment 3", "postId": 1 }
   ],
   "profile": {
-    "name": "Vahid Akhtar"
+    "name": "Vahid Akhtar",
+    "location": "Bangalore, Karnataka",
+    "profile": "Engineer"
   }
 }
