@@ -14,6 +14,10 @@
     "name": "Vahid Akhtar",
     "email": "akhtarvahid543@gmail.com",
     "location": "Bangalore, Karnataka",
-    "profile": "Engineer"
+    "profile": "Engineer",
+    "address" : {
+       "permanent": "Allahabad U.P.",
+       "correspondence": "Bangalore U.P."
+     }
   }
 }
